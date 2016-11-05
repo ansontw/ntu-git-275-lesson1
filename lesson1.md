@@ -14,5 +14,5 @@ Jerry Tseng
 
 ##My Favorite 3 Programming Languages
 1. JAVA
-2. native JAVASCRIPT
+2. JAVASCRIPT
 3. PHP
