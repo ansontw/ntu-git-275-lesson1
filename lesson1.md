@@ -9,10 +9,10 @@ Jerry Tseng
 
 
 ##Github Username
-ansontw
+**ansontw**
 
 
 ##My Favorite 3 Programming Languages
-JAVA
-PHP
-JAVASCRIPT
+1. JAVA
+2. PHP
+3. JAVASCRIPT
