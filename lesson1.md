@@ -1,7 +1,7 @@
 # NTU GIT CLASS EXERCISE 1
 
 ##Name
-Jerry Tseng
+**Jerry Tseng**
 
 
 ##Date
